@@ -1,0 +1,2 @@
+# CNAME
+yubo.tk
