@@ -1,2 +1,2 @@
 # CNAME
-yubo.tk
+www.yubo.tk
